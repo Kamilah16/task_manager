@@ -1,0 +1,9 @@
+.delete{
+  text-decoration:underline;
+  color:darkblue;
+}
+.completed{
+  text-decoration:line-through;
+  color:grey;
+  cursor: pointer;
+}
